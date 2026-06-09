@@ -11,7 +11,7 @@
 
 Computer Science student with a strong interest in embedded systems, IoT, automation, and digital accessibility, comfortable working across both hardware and software.
 
-- 🎓 **Education:** Pursuing a Bachelor's degree in Computer Science and Software Production Technologies at the University of Bari Aldo Moro. Diploma as IT Technician (Perito Tecnico Informatico)
+- 🎓 **Education:** Pursuing a Bachelor's degree in Computer Science and Software Production Technologies at the University of Bari Aldo Moro. Diploma as IT Technician
 - 🔬 **Research:** Member of the Assistive Technologies & Digital Accessibility Lab (Aletheia) at the University of Bari
 - 🛠️ **Technologies:** Python, C, C++, TypeScript, JavaScript — from microcontroller firmware to web applications
 - 📦 **What I build:** Telegram and WhatsApp bots, embedded devices (e-ink weather station), inventory management systems, and smart mobility solutions
